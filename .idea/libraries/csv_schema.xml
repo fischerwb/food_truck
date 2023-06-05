@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="csv_schema" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/csv_schema/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/csv_schema/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/csv_schema/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/csv_schema/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/csv_schema/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/csv_schema/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/csv_schema/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/csv_schema/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/csv_schema/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/csv_schema/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/csv_schema/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/csv_schema/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/csv_schema/lib" />
+      <root url="file://$PROJECT_DIR$/deps/csv_schema/lib" />
+      <root url="file://$PROJECT_DIR$/deps/csv_schema/lib" />
+      <root url="file://$PROJECT_DIR$/deps/csv_schema/lib" />
+      <root url="file://$PROJECT_DIR$/deps/csv_schema/lib" />
+    </SOURCES>
+  </library>
+</component>
